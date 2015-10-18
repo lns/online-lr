@@ -1,0 +1,11 @@
+# Datafile list for training.
+# Format: DATAFILE (single_space) WEIGHT
+# Lines started with '#' or '\n' are omitted.
+# 
+/media/Main/Data/ipinyou/data3/imp.20131019.txt 1.0
+/media/Main/Data/ipinyou/data3/imp.20131020.txt 1.0
+/media/Main/Data/ipinyou/data3/imp.20131021.txt 1.0
+/media/Main/Data/ipinyou/data3/imp.20131022.txt 1.0
+/media/Main/Data/ipinyou/data3/imp.20131023.txt 1.0
+/media/Main/Data/ipinyou/data3/imp.20131024.txt 1.0
+

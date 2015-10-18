@@ -1,0 +1,5 @@
+K: 1000
+stepsize: 0
+threshold: 1e3
+g: 7e-5
+power_eta: 0.5
